@@ -3,12 +3,23 @@ width:200px;
 	padding: 0px; 
 	text-align: center; 
 	float:right; 
-	margin-right:550px;
+	margin-right:355px;
 }
-/* div class för logan som tar dig tillbaka till startsidan */
-.TreknapparBox {
+/* div box för startknappen för att ta sig till startsidan */
+.TvaknapparBox {
 	padding: 0xp; 
 	text-align: left;
 	float:left;
 }
-/* div class för tre knapparna: sök,profil och kundvagn */
+/* div box för Sök och Profil knapp */
+.KundvagnIkonbox{
+padding: 30px;
+text-align: right;
+float:right;
+}
+/* div box för kundvagns knappen */
+.Kundvagnbox {
+text-align: center;
+padding: 125px;
+}
+/* CSS för något inne på kundvagnen*/
