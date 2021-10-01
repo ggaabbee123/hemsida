@@ -5,8 +5,10 @@ width:200px;
 	float:right; 
 	margin-right:550px;
 }
+/* div class för logan som tar dig tillbaka till startsidan */
 .TreknapparBox {
 	padding: 0xp; 
 	text-align: left;
 	float:left;
 }
+/* div class för tre knapparna: sök,profil och kundvagn */
