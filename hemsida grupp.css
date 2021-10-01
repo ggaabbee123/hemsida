@@ -1,1 +1,12 @@
-mhnhbyhugiuhbugi
+.StartknappBox {
+width:200px;
+	padding: 0px; 
+	text-align: center; 
+	float:right; 
+	margin-right:550px;
+}
+.TreknapparBox {
+	padding: 0xp; 
+	text-align: left;
+	float:left;
+}
