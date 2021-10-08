@@ -1,40 +1,39 @@
 .StartknappBox {
-width:200px;
-	padding: 0px; 
-	text-align: center; 
-	float:right; 
-	margin-right:500px;
+    width: 200px;
+    padding: 0px;
+    text-align: center;
+    float: right;
+    margin-right: 500px;
 }
 /* div box för startknappen för att ta sig till startsidan */
 .TvaknapparBox {
-	padding: 0xp; 
-	text-align: left;
-	float:left;
+    padding: 0xp;
+    text-align: left;
+    float: left;
 }
 /* div box för Sök och Profil knapp */
-.KundvagnIkonbox{
-
-text-align: right;
-float:right;
+.KundvagnIkonbox {
+    text-align: right;
+    float: right;
 }
 /* div box för kundvagns knappen */
-.KundvagnboxTom {
-	  position: absolute;
-	  right: 550px;
-	  top: 100px;
-	  width: 300px;
+.Kundvagnbox {
+    text-align: center;
+    padding: 125px;
 }
-/* CSS för något inne på kundvagnen*/
-.KundvagnboxTomText {
-	  position: absolute;
-	  right: 450px;
-	  top: 450px;
-	  width: 350px;
+/* div box för bakgrundsbilden*/
+body {
+    background-image: url("bakgrund.jpg");
+    
 }
-/*CSS för texten till kundvagnen*/
-.KundvagnTextStil {
-  font-family: Vivaldi, Helvetica, sans-serif;
-  font-size: 25px;
+.loggain{
+    text-align:center;
+    
 }
-/*Stil till texten under Kundvagns ikonen*/
-/*Ovanför är CSS in skriven av Alexander*/
+.användarnamn{
+    text-align:center;
+}
+.lösenord{
+    text-align: center;
+}
+.loggainknapp{}
