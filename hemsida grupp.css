@@ -4,6 +4,13 @@
     text-align: center;
     float: right;
     margin-right: 500px;
+
+}
+.start {
+    color: darkgoldenrod;
+    text-decoration: none;
+    font-family: Vivaldi;
+    font-size:xxx-large
 }
 /* div box för startknappen för att ta sig till startsidan */
 .TvaknapparBox {
@@ -24,10 +31,14 @@
 /* div box för bakgrundsbilden*/
 body {
     background-image: url("bakgrund.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
     
 }
 .loggain{
     text-align:center;
+    font-family:Vivaldi;
+    color:darkgoldenrod;
     
 }
 .användarnamn{
@@ -36,4 +47,13 @@ body {
 .lösenord{
     text-align: center;
 }
-.loggainknapp{}
+.loggainknapp{
+    text-align: center;
+}
+.glömt{
+    text-align: center;
+}
+.kläder1{
+    width:300px;
+    text-align:left
+}
