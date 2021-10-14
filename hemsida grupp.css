@@ -115,3 +115,35 @@ body {
 	margin-left: 15px;
 }
 /* Knappen tillbaka till login */
+.RegistreraTextBox {
+	text-align: center;
+}
+/* Texten "Registrera"*/
+.LabelTextStil2 {
+  font-family: Vivaldi, Helvetica, sans-serif;
+  font-size: 55px;
+  color:darkgoldenrod;
+}
+/* Font och färg för texten */
+.RegistreraEmailBox {
+	text-align: center;
+	padding: 10px;
+}
+/* Input epost */
+.RegistreraPasswordBox {
+	text-align: center;
+	padding: 10px;
+	margin-right: 25px;
+}
+/* Input lösenord */
+.RegistreraRePasswordBox {
+	text-align: center;
+	padding: 10px;
+	margin-right: 90px;
+}
+/* Input Upprepa lösenord */
+.VilkorTextBox {
+	margin-left: 420px;
+}
+/* Box till text länkarna "Användarvilkor" och "Logga in" */
+
