@@ -98,3 +98,20 @@ body {
   color:darkgoldenrod;
 }
 /*Stil till texten under Kundvagns ikonen*
+.EmailBoxBytlos {
+	text-align: center;
+	margin-top: 200px;
+}
+/* epost inputen */
+.LabelTextStil {
+  font-family: Vivaldi, Helvetica, sans-serif;
+  font-size: 35px;
+  color:darkgoldenrod;
+}
+/* "Skriv in din epost" texten */
+.TillbakaKnappByt {
+	float: left;
+	margin-top: -180px;
+	margin-left: 15px;
+}
+/* Knappen tillbaka till login */
