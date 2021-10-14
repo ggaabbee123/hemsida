@@ -1,4 +1,63 @@
-<style>
+.StartknappBox {
+    width: 200px;
+    padding: 0px;
+    text-align: center;
+    float: right;
+    margin-right: 500px;
+
+}
+.start {
+    color: darkgoldenrod;
+    text-decoration: none;
+    font-family: Vivaldi;
+    font-size:xxx-large
+}
+/* div box för startknappen för att ta sig till startsidan */
+.TvaknapparBox {
+    padding: 0xp;
+    text-align: left;
+    float: left;
+}
+/* div box för Sök och Profil knapp */
+.KundvagnIkonbox {
+    text-align: right;
+    float: right;
+}
+/* div box för kundvagns knappen */
+.Kundvagnbox {
+    text-align: center;
+    padding: 125px;
+}
+/* div box för bakgrundsbilden*/
+body {
+    background-image: url("bakgrund.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+}
+.loggain{
+    text-align:center;
+    font-family:Vivaldi;
+    color:darkgoldenrod;
+    
+}
+.användarnamn{
+    text-align:center;
+}
+.lösenord{
+    text-align: center;
+}
+.loggainknapp{
+    text-align: center;
+}
+.glömt{
+    text-align: center;
+}
+.kläder1{
+    width:300px;
+    text-align:left
+}
+/*Sökruta*/
 .search{position: absolute;	text-align: center;
 	width: 100%;left: 50%;top: 50%;
 	transform: translate(-50%, -50%);
@@ -17,4 +76,5 @@
 	background-color: transparent;
 	border:none;right: 24%;
 	top: 5px;outline: none;
-	padding: 4px;}</style>
+	padding: 4px;}
+}
