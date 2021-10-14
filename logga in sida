@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="hemsida grupp.css">
+</head>
+<body>
+    <div class="loggain">
+        <h1><br/><br /><br /><br />Logga in</h1>
+    </div>
+    <div class="logga">
+
+        <div class="användarnamn">
+            <input type="text" placeholder="E-postadress" name="username" required>
+        </div>
+        <br />
+        <div class="lösenord">
+            <input type="password" placeholder="Lösenord" name="password" required>
+        </div>
+        <br/>
+        <div class="loggain knapp">
+            <button onclick="location.href='index.html'" type="submit">Logga in</button>
+
+            <input type="checkbox" checked="checked"> Kom ihåg mig
+        </div>
+        <br/>
+        <div class="glömt">
+
+            Glömt <a href="#"> lösenord? </a>
+        </div>
+    </div>
