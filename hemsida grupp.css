@@ -146,4 +146,41 @@ body {
 	margin-left: 420px;
 }
 /* Box till text länkarna "Användarvilkor" och "Logga in" */
+.RingUppFont {
+  font-size: 30px;
+  color:darkgoldenrod;
+  }
+.RingUppBox {
+    text-align: center;
+    margin-top: 100px;
+}
+.JaNejBox {
+    text-align: center;  
+    margin-top: 60px
+}
+.JaBox {
+    margin-top: 2px;
+    margin-right: 9px;
+}
+.FortsattUppRingdBox {
+    margin-top: 10px;
+    margin-left: 610px;
+}
+.ValjKnapp {
+	  position: absolute;
+	  right: 1270px;
+	  top: 200px;
+	  width: 0px;
+}
+.BetalMetod {
+    float: left;
+    height: 300px;
+}
 
+.RubrikBetal {
+    text-align: left;
+}
+.RubrikBetaltext {
+  font-family: Vivaldi, Helvetica, sans-serif;
+  font-size: 40px;
+  color:darkgoldenrod;
